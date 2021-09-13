@@ -14,16 +14,13 @@
 
 ### Features
 
-- Beginners friendly
-- Kali Linux `Upadate & Upgrade` 
-- Requirements Installing 
-- Tools Install `Basic Hacking Tools`
+- Every 10 Sec `Mac Address Will Change`
 
 ### Installation
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/SiddhantOffl/basich.sh.git
+$ git clone https://github.com/SiddhantOffl/mac-changer.git
 ```
 
 - Change to cloned directory and run `auto_mac.sh` -
